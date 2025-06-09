@@ -7,7 +7,87 @@
     <title>Starline Coffee</title>
     <link rel="stylesheet" href="Projects/style.css">
 </head>
+<style>/* Importing a premium font */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;500&display=swap');
 
+body {
+    background-color: #1c1c1c;
+    color: #e3c48a; /* Soft golden tone */
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    background-color: #121212;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    color: #e3c48a;
+    text-shadow: 2px 2px 8px rgba(255, 235, 170, 0.6);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #e3c48a;
+    font-size: 18px;
+    transition: 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #f8e2a0;
+    font-weight: bold;
+}
+
+img {
+    width: 30%;
+    display: block;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(255, 235, 170, 0.5);
+}
+
+table {
+    width: 60%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background-color: #2a2a2a;
+    color: #e3c48a;
+    box-shadow: 0px 4px 10px rgba(255, 235, 170, 0.5);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #e3c48a;
+}
+
+th {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #121212;
+    font-size: 14px;
+    color: #e3c48a;
+}</style>
 <body>
     <header>
         <H1><u>Welcome To Starline Coffee</u></H1>
