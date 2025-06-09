@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starline Coffee</title>
+    <link rel="stylesheet" href="Projects/style.css">
+</head>
+
+<body>
+    <header>
+        <H1><u>Welcome To Starline Coffee</u></H1>
+        
+        <img src="https://www.lux-review.com/wp-content/uploads/2022/01/Black-coffee.jpg"
+            height="250">
+        <hr>
+        <main>
+            <h2>Our Contact</h2> 
+            <p>For Ordering online , Please Contact us on 743xxxx233</p>  
+        </main>
+        <hr>
+        <footer>Copyright &copy; Starline Coffee</footer>
+    </header>
+</body>
+
+</html>
