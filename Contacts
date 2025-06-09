@@ -7,7 +7,53 @@
     <title>Starline Coffee</title>
     <link rel="stylesheet" href="Projects/style.css">
 </head>
+<style>
+    /* Luxury Styling for Starline Coffee */
+body {
+    background-color: #1b1b1b;
+    color: #f5f5f5;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding: 20px;
+}
 
+header h1 {
+    font-size: 40px;
+    color: #d4af37; /* Gold accent */
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(255, 215, 0, 0.5);
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 28px;
+    color: #d4af37;
+    border-bottom: 2px solid #d4af37;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+footer {
+    font-size: 16px;
+    margin-top: 30px;
+    padding: 15px 0;
+    background-color: #222;
+    color: #d4af37;
+    font-weight: bold;
+}
+</style>
 <body>
     <header>
         <H1><u>Welcome To Starline Coffee</u></H1>
