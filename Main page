@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starline Coffee</title>
+    <link rel="stylesheet" href="Projects/style.css">
+</head>
+
+<body>
+    <header>
+        <H1><u>Welcome To Starline Coffee</u></H1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="Hours.html">Store Hours</a></li>
+                <li><a href="Contact.html">Contact us</a></li>
+            </ul>
+        </nav>
+        <img src="https://qahwaworld.com/wp-content/uploads/2024/06/DALL%C2%B7E-2024-06-27-21.33.16-A-beautiful-and-simple-image-showcasing-a-luxurious-coffee-experience.-A-cup-of-steaming-hot-coffee-placed-on-a-rustic-wooden-table-surrounded-by-a-f.webp"
+            height="250">
+        <hr>
+        <main>
+            <pre><big><i>                Start your day with Starline—where every cup is brewed to perfection, balancing rich flavors with
+                aromatic bliss. From bold espressos to smooth lattes, every sip is crafted with passion and dedication,
+                ensuring an unforgettable coffee experience."</i></big></pre>
+                <hr>
+
+        </main>
+        <article id="menu">
+            <h2>Our Menu</h2>
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>Coffee</th>
+                        <th scope="col"><abbr title="Quantity">Qty</abbr></th>
+                        <th scope="col">Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row" rowspan="2">Expresso</th>
+
+                    </tr>
+                    <td>1</td>
+                    <td>150</td>
+                   
+                    <tr>
+                        <th scope="row" rowspan="2">Cappuchino</th>
+
+                    </tr>
+                    <td>1</td>
+                    <td>100</td>
+                   
+                    <tr>
+                        <th scope="row" rowspan="2">Drip Coffee</th>
+
+                    </tr>
+                    <td>1</td>
+                    <td>50</td>
+                    <tr>
+                        <th scope="row" rowspan="2">French Press</th>
+
+                    </tr>
+                    <td>1</td>
+                    <td>200</td>
+                    <tr>
+                        <th scope="row" rowspan="2">Basic Coffee</th>
+
+                    </tr>
+                    <td>1</td>
+                    <td>30</td>
+                   
+                </tbody>
+            </table>
+        </article>
+        <hr>
+        <footer>Copyright &copy; Starline Coffee</footer>
+    </header>
+</body>
+
+</html>
